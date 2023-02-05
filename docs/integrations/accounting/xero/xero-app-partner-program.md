@@ -89,7 +89,7 @@ Can be enabled for Xero - please contact [support@codat.io](mailto:support@codat
 
 Must be enabled from **Integrations > Xero Credentials** to be enabled.
 
-While we request the above scopes, you will need to present on the SME’s consent screen what exactly you are requesting and why. This will be checked by Xero during the certification, additional scopes should be explained to Xero during the review.
+While we request the above scopes, you will need to present on the SMB’s consent screen what exactly you are requesting and why. This will be checked by Xero during the certification, additional scopes should be explained to Xero during the review.
 
 ### 8: Sign up with Xero
 
@@ -105,11 +105,11 @@ For the steps to enable via Codat please see [Sign Up with Xero](https://codat.z
 
 ### 12. Account mapping
 
-You may utilise Codat’s Push options endpoint to show the options available to allow this building of a mapping interface. Codat recommends a configuration page in which the SME can choose where to map everything.
+You may utilise Codat’s Push options endpoint to show the options available to allow this building of a mapping interface. Codat recommends a configuration page in which the SMB can choose where to map everything.
 
 ### 13. Currency
 
-Our currency datatype is available across all integrations and is aware of the currencies enabled by the SME in Xero. When pushing transactional data such as a payment in another currency, you may utilise our Push options endpoint to show the currencies available to push such as those currencies that have been set up by the SME in Xero.
+Our currency datatype is available across all integrations and is aware of the currencies enabled by the SMB in Xero. When pushing transactional data such as a payment in another currency, you may utilise our Push options endpoint to show the currencies available to push such as those currencies that have been set up by the SMB in Xero.
 
 ### 15. Taxes
 
@@ -125,7 +125,7 @@ We do not currently support creating new tax rates, only existing rates in a SMB
 
 ### 16. Payment account mapping
 
-You can use Codat’s Push options endpoint to show the options available to allow this building of a mapping interface. Codat recommends a configuration page in which the SME can choose where to map everything.
+You can use Codat’s Push options endpoint to show the options available to allow this building of a mapping interface. Codat recommends a configuration page in which the SMB can choose where to map everything.
 
 ---
 

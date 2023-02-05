@@ -9,7 +9,7 @@ Assess in the Portal leverages Codat APIs to produce features that serve data on
 
 To benefit from all of the features of Assess, a company should be linked to accounting, banking and commerce data sources. Explore our [How to get started](https://docs.codat.io/docs/assess-how-to-get-started) guide.
 
-The categorized Profit and Loss, and Balance Sheet showcase the power of the [Categories](https://docs.codat.io/docs/categorization-of-accounts) feature which standardizes bespoke data across SMEs. After the data is standardized, meaningful insights and measurements are produced for financial performance.
+The categorized Profit and Loss, and Balance Sheet showcase the power of the [Categories](https://docs.codat.io/docs/categorization-of-accounts) feature which standardizes bespoke data across SMBs. After the data is standardized, meaningful insights and measurements are produced for financial performance.
 
 **Data Match**
 

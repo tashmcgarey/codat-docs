@@ -11,7 +11,7 @@ Note that Indicators is still in testing mode across all integrations and hasn't
 If you're interested in participating in the beta testing, contact your sales representative.
 :::
 
-This feature provides a set of pre-calculated ratios and metrics used to assess company financial performance. It leverages the [Categories](https://docs.codat.io/docs/categorization-of-accounts) feature, which standardizes bespoke data across SMEs. After the data is standardized, meaningful insights and measurements are produced for financial performance.
+This feature provides a set of pre-calculated ratios and metrics used to assess company financial performance. It leverages the [Categories](https://docs.codat.io/docs/categorization-of-accounts) feature, which standardizes bespoke data across SMBs. After the data is standardized, meaningful insights and measurements are produced for financial performance.
 
 Currently, to measure company performance, clients need to map each of their customer’s bespoke financial statements to a single standardized chart of accounts - this is what our Categories feature does. After financials are fully standardized, clients need to perform complex calculations in order to produce financial ratios and metrics - this is what our Indicators feature does. It saves the client considerable time and effort.
 

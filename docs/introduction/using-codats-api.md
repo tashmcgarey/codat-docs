@@ -6,7 +6,7 @@ createdAt: "2022-02-01T11:15:53.700Z"
 updatedAt: "2022-11-03T11:18:13.618Z"
 ---
 
-The Codat API provides secure access to contributed business data from your SME customers mapped to our [accounting](https://docs.codat.io/docs/datamodel-accounting), [banking](https://docs.codat.io/docs/data-model-banking), and [commerce](https://docs.codat.io/docs/datamodel-commerce) data models.
+The Codat API provides secure access to contributed business data from your SMB customers mapped to our [accounting](https://docs.codat.io/docs/datamodel-accounting), [banking](https://docs.codat.io/docs/data-model-banking), and [commerce](https://docs.codat.io/docs/datamodel-commerce) data models.
 
 A single REST API with over 40 different groups of endpoints, the API supports a wide range of operations and HTTP methods, including:
 
