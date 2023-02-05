@@ -87,9 +87,9 @@ The response structure is split into four areas: Report info, Dimensions, Measur
 "h-2": "Description",
 "0-0": "**name** ",
 "0-1": "_string_",
-"0-2": ""lifetime_value"",
+"0-2": ""lifetime*value"",
 "1-0": "**displayName** ",
-"1-1": "_string_",
+"1-1": "\_string*",
 "1-2": ""Lifetime Value""
 },
 "cols": 3,

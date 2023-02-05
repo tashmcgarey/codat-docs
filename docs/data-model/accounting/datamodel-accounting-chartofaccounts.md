@@ -98,12 +98,11 @@ See [currency](https://docs.codat.io/docs/datamodel-shared-currency)",
     <li>`Liability.Current.VAT`</li>
     <li>`Income.Revenue.Sales`</li>
   </ul>
-  ", "6-2": "Currency of the account.", "0-2": "Identifier for the account,
-  unique for the
-  [company](https://docs.codat.io/docs/datamodel-accounting-company).", "1-2":
-  "Reference given to each nominal account for a business. It ensures money is
-  allocated to the correct account. This code isn't a unique identifier in the
-  Codat system." }, "cols": 3, "rows": 13 } [/block.
+  ", "6-2": "Currency of the account.", "0-2": "Identifier for the account, unique
+  for the [company](https://docs.codat.io/docs/datamodel-accounting-company).", "1-2":
+  "Reference given to each nominal account for a business. It ensures money is allocated
+  to the correct account. This code isn't a unique identifier in the Codat system."
+  }, "cols": 3, "rows": 13 } [/block.
 
 ### Valid Datatype Links
 

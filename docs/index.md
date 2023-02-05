@@ -211,8 +211,8 @@ Take your first steps through the information and support available to you.
         getting started guide
       </a>
       , or press
-      <code>Ctrl-K</code> to bring up the quick search bar to find the information
-      you need.
+      <code>Ctrl-K</code> to bring up the quick search bar to find the
+      information you need.
     </p>
   </li>
   <li className="card">
@@ -225,8 +225,7 @@ Take your first steps through the information and support available to you.
     </div>
     <p>
       Jump in and start using the Codat API endpoints through our interactive{" "}
-      <a href="https://docs.codat.io/reference/authentication">API reference</a>
-      .
+      <a href="https://docs.codat.io/reference/authentication">API reference</a>.
     </p>
   </li>
   <li className="card">

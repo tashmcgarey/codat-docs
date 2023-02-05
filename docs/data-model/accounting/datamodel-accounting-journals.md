@@ -77,12 +77,11 @@ See [date](https://docs.codat.io/docs/datamodel-shared-date)",
   <li>`Active`</li>
   <li>`Archived`</li>
 </ul>
-", "8-0": "**modifiedDate**", "8-1": "_string_ See
-[date](https://docs.codat.io/docs/datamodel-shared-date)", "8-2": "The last time
-Codat modified the record.", "9-0": "**sourceModifiedDate**", "9-1": "_string_
-See [date](https://docs.codat.io/docs/datamodel-shared-date)", "9-2": "The last
-time the journal was modified on the source platform." }, "cols": 3, "rows": 10,
-"align": [ "left", "left", "left" ] } [/block]
+", "8-0": "**modifiedDate**", "8-1": "_string_ See [date](https://docs.codat.io/docs/datamodel-shared-date)",
+"8-2": "The last time Codat modified the record.", "9-0": "**sourceModifiedDate**",
+"9-1": "_string_ See [date](https://docs.codat.io/docs/datamodel-shared-date)", "9-2":
+"The last time the journal was modified on the source platform." }, "cols": 3, "rows":
+10, "align": [ "left", "left", "left" ] } [/block]
 
 ## Example data
 

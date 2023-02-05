@@ -1,6 +1,6 @@
 # Codat docs
 
-> :warning: **These docs are in beta** 
+> :warning: **These docs are in beta**
 >
 > In the meantime, please use [our existing docs](https://docs.codat.io/docs)
 

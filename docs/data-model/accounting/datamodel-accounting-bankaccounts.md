@@ -94,8 +94,7 @@ The value is always positive. For example, an **overdraftLimit** of `1000` means
   <li>`Debit` – Bank account is a debit account.</li>
   <li>`Unknown`.</li>
 </ul>
-", "6-2": "The institution of the bank account." }, "cols": 3, "rows": 14 }
-[/block]
+", "6-2": "The institution of the bank account." }, "cols": 3, "rows": 14 } [/block]
 
 ## Example data
 

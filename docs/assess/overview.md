@@ -54,41 +54,43 @@ Assess empowers you with a host of features to help you streamline your underwri
     </p>
   </li>
 
-  <li className="card">
-    <div class="header">
-      <img
-        src="https://www.codat.io/wp-content/themes/class/dist/images/copy-feature-bullet.svg"
-        class="mini-icon"
-      />
-      <h3>Accounting financial metrics</h3>
-    </div>
-    <p>
-      We pre-calculate the top financial ratios used for risk assessments and
-      credit decisioning. Explore{" "}
-      <a href="https://docs.codat.io/docs/assess-accounting-metrics">
-        Accounting Financial Metrics
-      </a>
-      .
-    </p>
-  </li>
+{" "}
+<li className="card">
+  <div class="header">
+    <img
+      src="https://www.codat.io/wp-content/themes/class/dist/images/copy-feature-bullet.svg"
+      class="mini-icon"
+    />
+    <h3>Accounting financial metrics</h3>
+  </div>
+  <p>
+    We pre-calculate the top financial ratios used for risk assessments and
+    credit decisioning. Explore{" "}
+    <a href="https://docs.codat.io/docs/assess-accounting-metrics">
+      Accounting Financial Metrics
+    </a>
+    .
+  </p>
+</li>
 
-  <li className="card">
-    <div class="header">
-      <img
-        src="https://www.codat.io/wp-content/themes/class/dist/images/copy-feature-bullet.svg"
-        class="mini-icon"
-      />
-      <h3>Commerce sales metrics</h3>
-    </div>
-    <p>
-      We provide the pre-calculated metrics you need to assess a customer’s
-      revenue, orders and customer retention profile. Explore{" "}
-      <a href="https://docs.codat.io/docs/assess-commerce-metrics">
-        Commerce Metrics
-      </a>
-      .
-    </p>
-  </li>
+{" "}
+<li className="card">
+  <div class="header">
+    <img
+      src="https://www.codat.io/wp-content/themes/class/dist/images/copy-feature-bullet.svg"
+      class="mini-icon"
+    />
+    <h3>Commerce sales metrics</h3>
+  </div>
+  <p>
+    We provide the pre-calculated metrics you need to assess a customer’s
+    revenue, orders and customer retention profile. Explore{" "}
+    <a href="https://docs.codat.io/docs/assess-commerce-metrics">
+      Commerce Metrics
+    </a>
+    .
+  </p>
+</li>
 
   <li className="card">
     <div class="header">

@@ -35,26 +35,27 @@ There are three ways you can enable your customers to connect their financial ac
     </p>
   </li>
 
-  <li className="card">
-    <p>Low-code</p>
-    <div class="header">
-      <img
-        src="https://www.codat.io/wp-content/themes/class/dist/images/copy-feature-bullet.svg"
-        class="mini-icon"
-      />
-      <h3>Embedded Link</h3>
-    </div>
-    <p>
-      Maximise conversion and authorize from within your app in 10 lines of code
-      with our auth flow SDK.
-    </p>
-    <p>
-      <a href="https://docs.codat.io/docs/authorize-embedded-link">
-        Read more...
-      </a>
-      .
-    </p>
-  </li>
+{" "}
+<li className="card">
+  <p>Low-code</p>
+  <div class="header">
+    <img
+      src="https://www.codat.io/wp-content/themes/class/dist/images/copy-feature-bullet.svg"
+      class="mini-icon"
+    />
+    <h3>Embedded Link</h3>
+  </div>
+  <p>
+    Maximise conversion and authorize from within your app in 10 lines of code
+    with our auth flow SDK.
+  </p>
+  <p>
+    <a href="https://docs.codat.io/docs/authorize-embedded-link">
+      Read more...
+    </a>
+    .
+  </p>
+</li>
 
   <li className="card">
     <p>More code</p>

@@ -258,13 +258,13 @@ Content-Disposition: form-data; name="yourFileData"; filename="TEST_SEND_FILE.tx
 "displayName": "PPTX",
 "required": false
 },
- {
+{
 "value": ".rar",
 "type": "String",
 "displayName": "RAR",
 "required": false
 },
- {
+{
 "value": ".rtf",
 "type": "String",
 "displayName": "RTF",
